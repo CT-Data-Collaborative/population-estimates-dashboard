@@ -9,7 +9,7 @@ Program (PEP) and the official population estimates for the state of Connecticut
 In addition, this dataset includes estimates of the components of population change (births, deaths, and domestic and international migration) at the state and planning region
 levels from the PEP, and new housing units permitted annually in each town from the Census Bureau’s Building Permit Survey.
 
-This data powers the [Connecticut Population Estimates Dashboard] (https://public.tableau.com/app/profile/connecticut.state.data.center/viz/ConnecticutPopulationEstimatesJuly2024/PEPDashboard).
+This data powers the [Connecticut Population Estimates Dashboard](https://public.tableau.com/app/profile/connecticut.state.data.center/viz/ConnecticutPopulationEstimatesJuly2024/PEPDashboard).
 
 ### Download instructions
 
