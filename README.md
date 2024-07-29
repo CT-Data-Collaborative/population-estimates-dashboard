@@ -13,4 +13,4 @@ This data powers the [Connecticut Population Estimates Dashboard](https://public
 
 ### Download Instructions
 
-To download this dataset as a .csv, click on "popest_data.csv" from the menu above. You'll see a preview of the dataset. To download the data, click on the down arrow button at the top right of the preview pane. When you hover over the download button, text saying "Download raw file" will appear.
+To download this dataset as a .csv, click on "popestimates_07-2024.csv" from the menu above. You'll see a preview of the dataset. To download the data, click on the down arrow button at the top right of the preview pane. When you hover over the download button, text saying "Download raw file" will appear.
