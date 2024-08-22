@@ -2,7 +2,7 @@
 
 This dataset and documentation power the [Connecticut Populaiton Estimates Dashboard](https://public.tableau.com/app/profile/connecticut.state.data.center/viz/ConnecticutPopulationEstimates/PEPDashboard). The interactive dashboard shows estimates of Connecticut’s total population at the state, planning region, and town levels from the Census Bureau’s [Population Estimates Program (PEP)](https://www.census.gov/programs-surveys/popest.html) and the [official population estimates for the state of Connecticut](https://portal.ct.gov/dph/health-information-systems--reporting/population/annual-town-and-county-population-for-connecticut) certified by Connecticut’s Department of Public Health (DPH). In addition, the dashboard shows estimates of the components of population change (births, deaths, and domestic and international migration) at the state and planning region levels from the PEP, and new housing units permitted annually in each town from the Census Bureau’s Building Permit Survey.
 
-To download this dataset as a .csv, click on "popestimates_08-2024.csv" from the menu above. You'll see a preview of the dataset. To download the data, click on the down arrow button at the top right of the preview pane. When you hover over the download button, text saying "Download raw file" will appear.
+To download this dataset as a .csv, click on "popestimates_tableau_08152024.csv" from the menu above. You'll see a preview of the dataset. To download the data, click on the down arrow button at the top right of the preview pane. When you hover over the download button, text saying "Download raw file" will appear. The data dictionary can be viewed or downloaded in the same way.
 
 ### About The Census Bureau’s Population Estimates
 
