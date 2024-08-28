@@ -8,12 +8,12 @@ Connecticut,9387,State,09,PEP,2020,International Migration,2020
 Connecticut,-19294,State,09,PEP,2020,Domestic Migration,2020
 Connecticut,-9907,State,09,PEP,2020,Net Migration,2020
 Connecticut,110,State,09,PEP,2020,Residual,2020
-Connecticut,9.6189429552,State,09,PEP,2020,Birth (residual),2020
-Connecticut,9.399654192,State,09,PEP,2020,Death (residual),2020
-Connecticut,0.2192887631,State,09,PEP,2020,Natural Change (residual),2020
-Connecticut,2.6356768498,State,09,PEP,2020,International Migration (residual),2020
-Connecticut,-5.417359022,State,09,PEP,2020,Domestic Migration (residual),2020
-Connecticut,-2.781682172,State,09,PEP,2020,Net Migration (residual),2020
+Connecticut,9.618942955,State,09,PEP,2020,Birth rate,2020
+Connecticut,9.399654192,State,09,PEP,2020,Death rate,2020
+Connecticut,0.219288763,State,09,PEP,2020,Natural Change rate,2020
+Connecticut,2.63567685,State,09,PEP,2020,International Migration rate,2020
+Connecticut,-5.417359022,State,09,PEP,2020,Domestic Migration rate,2020
+Connecticut,-2.781682172,State,09,PEP,2020,Net Migration rate,2020
 Capitol Planning Region,968604,Planning Region,09110,PEP,2020,Population Estimate,Apr 1 2020 Estimate
 Greater Bridgeport Planning Region,320245,Planning Region,09120,PEP,2020,Population Estimate,Apr 1 2020 Estimate
 Lower Connecticut River Valley Planning Region,171555,Planning Region,09130,PEP,2020,Population Estimate,Apr 1 2020 Estimate
@@ -482,12 +482,12 @@ Connecticut,-4495,State,09,PEP,2021,Net Migration,2020
 Connecticut,9717,State,09,PEP,2021,Net Migration,2021
 Connecticut,-51,State,09,PEP,2021,Residual,2020
 Connecticut,595,State,09,PEP,2021,Residual,2021
-Connecticut,9.067901292,State,09,PEP,2021,Birth (residual),2021
-Connecticut,10.448722477,State,09,PEP,2021,Death (residual),2021
-Connecticut,-1.380821185,State,09,PEP,2021,Natural Change (residual),2021
-Connecticut,1.272020802,State,09,PEP,2021,International Migration (residual),2021
-Connecticut,1.4249519523,State,09,PEP,2021,Domestic Migration (residual),2021
-Connecticut,2.6969727542,State,09,PEP,2021,Net Migration (residual),2021
+Connecticut,9.067901292,State,09,PEP,2021,Birth rate,2021
+Connecticut,10.44872248,State,09,PEP,2021,Death rate,2021
+Connecticut,-1.380821185,State,09,PEP,2021,Natural Change rate,2021
+Connecticut,1.272020802,State,09,PEP,2021,International Migration rate,2021
+Connecticut,1.424951952,State,09,PEP,2021,Domestic Migration rate,2021
+Connecticut,2.696972754,State,09,PEP,2021,Net Migration rate,2021
 Cornwall,1575,Town,0916017240,PEP,2021,Estimate Base,2020
 Cornwall,1574,Town,0916017240,PEP,2021,Population Estimate,2020
 Cornwall,1571,Town,0916017240,PEP,2021,Population Estimate,2021
@@ -1053,18 +1053,18 @@ Capitol Planning Region,36367,Planning Region,09110,PEP,2022,Group Quarters Esti
 Capitol Planning Region,35233,Planning Region,09110,PEP,2022,Group Quarters Estimates,2020
 Capitol Planning Region,41860,Planning Region,09110,PEP,2022,Group Quarters Estimates,2021
 Capitol Planning Region,42691,Planning Region,09110,PEP,2022,Group Quarters Estimates,2022
-Capitol Planning Region,9.3934437304,Planning Region,09110,PEP,2022,Birth (residual),2021
-Capitol Planning Region,9.8797066972,Planning Region,09110,PEP,2022,Birth (residual),2022
-Capitol Planning Region,9.7936656438,Planning Region,09110,PEP,2022,Death (residual),2021
-Capitol Planning Region,9.8256858104,Planning Region,09110,PEP,2022,Death (residual),2022
-Capitol Planning Region,-0.400221913,Planning Region,09110,PEP,2022,Natural Change (residual),2021
-Capitol Planning Region,0.0540208867,Planning Region,09110,PEP,2022,Natural Change (residual),2022
-Capitol Planning Region,1.737024519,Planning Region,09110,PEP,2022,International Migration (residual),2021
-Capitol Planning Region,4.7018556684,Planning Region,09110,PEP,2022,International Migration (residual),2022
-Capitol Planning Region,6.0852155364,Planning Region,09110,PEP,2022,Domestic Migration (residual),2021
-Capitol Planning Region,-3.775346498,Planning Region,09110,PEP,2022,Domestic Migration (residual),2022
-Capitol Planning Region,7.8222400554,Planning Region,09110,PEP,2022,Net Migration (residual),2021
-Capitol Planning Region,0.9265091703,Planning Region,09110,PEP,2022,Net Migration (residual),2022
+Capitol Planning Region,9.39344373,Planning Region,09110,PEP,2022,Birth rate,2021
+Capitol Planning Region,9.879706697,Planning Region,09110,PEP,2022,Birth rate,2022
+Capitol Planning Region,9.793665644,Planning Region,09110,PEP,2022,Death rate,2021
+Capitol Planning Region,9.82568581,Planning Region,09110,PEP,2022,Death rate,2022
+Capitol Planning Region,-0.400221913,Planning Region,09110,PEP,2022,Natural Change rate,2021
+Capitol Planning Region,0.054020887,Planning Region,09110,PEP,2022,Natural Change rate,2022
+Capitol Planning Region,1.737024519,Planning Region,09110,PEP,2022,International Migration rate,2021
+Capitol Planning Region,4.701855668,Planning Region,09110,PEP,2022,International Migration rate,2022
+Capitol Planning Region,6.085215536,Planning Region,09110,PEP,2022,Domestic Migration rate,2021
+Capitol Planning Region,-3.775346498,Planning Region,09110,PEP,2022,Domestic Migration rate,2022
+Capitol Planning Region,7.822240055,Planning Region,09110,PEP,2022,Net Migration rate,2021
+Capitol Planning Region,0.92650917,Planning Region,09110,PEP,2022,Net Migration rate,2022
 Chaplin,2152,Town,0915013810,PEP,2022,Estimate Base,2020
 Chaplin,2150,Town,0915013810,PEP,2022,Population Estimate,2020
 Chaplin,2153,Town,0915013810,PEP,2022,Population Estimate,2021
@@ -1121,18 +1121,18 @@ Connecticut,2749,State,09,PEP,2022,Net Migration,2022
 Connecticut,8,State,09,PEP,2022,Residual,2020
 Connecticut,1510,State,09,PEP,2022,Residual,2021
 Connecticut,-815,State,09,PEP,2022,Residual,2022
-Connecticut,9.3885413318,State,09,PEP,2022,Birth (residual),2021
-Connecticut,9.8814272866,State,09,PEP,2022,Birth (residual),2022
-Connecticut,9.5971078772,State,09,PEP,2022,Death (residual),2021
-Connecticut,9.6287222949,State,09,PEP,2022,Death (residual),2022
-Connecticut,-0.208566545,State,09,PEP,2022,Natural Change (residual),2021
-Connecticut,0.2527049918,State,09,PEP,2022,Natural Change (residual),2022
-Connecticut,1.7219896584,State,09,PEP,2022,International Migration (residual),2021
-Connecticut,4.4957211196,State,09,PEP,2022,International Migration (residual),2022
-Connecticut,5.267897911,State,09,PEP,2022,Domestic Migration (residual),2021
-Connecticut,-3.737330266,State,09,PEP,2022,Domestic Migration (residual),2022
-Connecticut,6.9898875693,State,09,PEP,2022,Net Migration (residual),2021
-Connecticut,0.7583908541,State,09,PEP,2022,Net Migration (residual),2022
+Connecticut,9.388541332,State,09,PEP,2022,Birth rate,2021
+Connecticut,9.881427287,State,09,PEP,2022,Birth rate,2022
+Connecticut,9.597107877,State,09,PEP,2022,Death rate,2021
+Connecticut,9.628722295,State,09,PEP,2022,Death rate,2022
+Connecticut,-0.208566545,State,09,PEP,2022,Natural Change rate,2021
+Connecticut,0.252704992,State,09,PEP,2022,Natural Change rate,2022
+Connecticut,1.721989658,State,09,PEP,2022,International Migration rate,2021
+Connecticut,4.49572112,State,09,PEP,2022,International Migration rate,2022
+Connecticut,5.267897911,State,09,PEP,2022,Domestic Migration rate,2021
+Connecticut,-3.737330266,State,09,PEP,2022,Domestic Migration rate,2022
+Connecticut,6.989887569,State,09,PEP,2022,Net Migration rate,2021
+Connecticut,0.758390854,State,09,PEP,2022,Net Migration rate,2022
 Cornwall,1570,Town,0916017240,PEP,2022,Estimate Base,2020
 Cornwall,1568,Town,0916017240,PEP,2022,Population Estimate,2020
 Cornwall,1573,Town,0916017240,PEP,2022,Population Estimate,2021
@@ -1269,18 +1269,18 @@ Greater Bridgeport Planning Region,9815,Planning Region,09120,PEP,2022,Group Qua
 Greater Bridgeport Planning Region,9770,Planning Region,09120,PEP,2022,Group Quarters Estimates,2020
 Greater Bridgeport Planning Region,10737,Planning Region,09120,PEP,2022,Group Quarters Estimates,2021
 Greater Bridgeport Planning Region,10760,Planning Region,09120,PEP,2022,Group Quarters Estimates,2022
-Greater Bridgeport Planning Region,9.9821976475,Planning Region,09120,PEP,2022,Birth (residual),2021
-Greater Bridgeport Planning Region,10.505488797,Planning Region,09120,PEP,2022,Birth (residual),2022
-Greater Bridgeport Planning Region,7.8876228416,Planning Region,09120,PEP,2022,Death (residual),2021
-Greater Bridgeport Planning Region,8.0334293332,Planning Region,09120,PEP,2022,Death (residual),2022
-Greater Bridgeport Planning Region,2.0945748059,Planning Region,09120,PEP,2022,Natural Change (residual),2021
-Greater Bridgeport Planning Region,2.4720594639,Planning Region,09120,PEP,2022,Natural Change (residual),2022
-Greater Bridgeport Planning Region,2.7661881039,Planning Region,09120,PEP,2022,International Migration (residual),2021
-Greater Bridgeport Planning Region,6.652253959,Planning Region,09120,PEP,2022,International Migration (residual),2022
-Greater Bridgeport Planning Region,1.5118966022,Planning Region,09120,PEP,2022,Domestic Migration (residual),2021
-Greater Bridgeport Planning Region,-9.029586793,Planning Region,09120,PEP,2022,Domestic Migration (residual),2022
-Greater Bridgeport Planning Region,4.2780847061,Planning Region,09120,PEP,2022,Net Migration (residual),2021
-Greater Bridgeport Planning Region,-2.377332834,Planning Region,09120,PEP,2022,Net Migration (residual),2022
+Greater Bridgeport Planning Region,9.982197648,Planning Region,09120,PEP,2022,Birth rate,2021
+Greater Bridgeport Planning Region,10.5054888,Planning Region,09120,PEP,2022,Birth rate,2022
+Greater Bridgeport Planning Region,7.887622842,Planning Region,09120,PEP,2022,Death rate,2021
+Greater Bridgeport Planning Region,8.033429333,Planning Region,09120,PEP,2022,Death rate,2022
+Greater Bridgeport Planning Region,2.094574806,Planning Region,09120,PEP,2022,Natural Change rate,2021
+Greater Bridgeport Planning Region,2.472059464,Planning Region,09120,PEP,2022,Natural Change rate,2022
+Greater Bridgeport Planning Region,2.766188104,Planning Region,09120,PEP,2022,International Migration rate,2021
+Greater Bridgeport Planning Region,6.652253959,Planning Region,09120,PEP,2022,International Migration rate,2022
+Greater Bridgeport Planning Region,1.511896602,Planning Region,09120,PEP,2022,Domestic Migration rate,2021
+Greater Bridgeport Planning Region,-9.029586793,Planning Region,09120,PEP,2022,Domestic Migration rate,2022
+Greater Bridgeport Planning Region,4.278084706,Planning Region,09120,PEP,2022,Net Migration rate,2021
+Greater Bridgeport Planning Region,-2.377332834,Planning Region,09120,PEP,2022,Net Migration rate,2022
 Greenwich,63527,Town,0919033620,PEP,2022,Estimate Base,2020
 Greenwich,63361,Town,0919033620,PEP,2022,Population Estimate,2020
 Greenwich,63651,Town,0919033620,PEP,2022,Population Estimate,2021
@@ -1385,18 +1385,18 @@ Lower Connecticut River Valley Planning Region,6496,Planning Region,09130,PEP,20
 Lower Connecticut River Valley Planning Region,6499,Planning Region,09130,PEP,2022,Group Quarters Estimates,2020
 Lower Connecticut River Valley Planning Region,7232,Planning Region,09130,PEP,2022,Group Quarters Estimates,2021
 Lower Connecticut River Valley Planning Region,7207,Planning Region,09130,PEP,2022,Group Quarters Estimates,2022
-Lower Connecticut River Valley Planning Region,7.9080743496,Planning Region,09130,PEP,2022,Birth (residual),2021
-Lower Connecticut River Valley Planning Region,8.2785916188,Planning Region,09130,PEP,2022,Birth (residual),2022
-Lower Connecticut River Valley Planning Region,10.365062767,Planning Region,09130,PEP,2022,Death (residual),2021
-Lower Connecticut River Valley Planning Region,10.268855768,Planning Region,09130,PEP,2022,Death (residual),2022
-Lower Connecticut River Valley Planning Region,-2.456988418,Planning Region,09130,PEP,2022,Natural Change (residual),2021
-Lower Connecticut River Valley Planning Region,-1.990264149,Planning Region,09130,PEP,2022,Natural Change (residual),2022
-Lower Connecticut River Valley Planning Region,0.7428104519,Planning Region,09130,PEP,2022,International Migration (residual),2021
-Lower Connecticut River Valley Planning Region,1.8938695895,Planning Region,09130,PEP,2022,International Migration (residual),2022
-Lower Connecticut River Valley Planning Region,14.284816383,Planning Region,09130,PEP,2022,Domestic Migration (residual),2021
-Lower Connecticut River Valley Planning Region,3.5269068403,Planning Region,09130,PEP,2022,Domestic Migration (residual),2022
-Lower Connecticut River Valley Planning Region,15.027626835,Planning Region,09130,PEP,2022,Net Migration (residual),2021
-Lower Connecticut River Valley Planning Region,5.4207764298,Planning Region,09130,PEP,2022,Net Migration (residual),2022
+Lower Connecticut River Valley Planning Region,7.90807435,Planning Region,09130,PEP,2022,Birth rate,2021
+Lower Connecticut River Valley Planning Region,8.278591619,Planning Region,09130,PEP,2022,Birth rate,2022
+Lower Connecticut River Valley Planning Region,10.36506277,Planning Region,09130,PEP,2022,Death rate,2021
+Lower Connecticut River Valley Planning Region,10.26885577,Planning Region,09130,PEP,2022,Death rate,2022
+Lower Connecticut River Valley Planning Region,-2.456988418,Planning Region,09130,PEP,2022,Natural Change rate,2021
+Lower Connecticut River Valley Planning Region,-1.990264149,Planning Region,09130,PEP,2022,Natural Change rate,2022
+Lower Connecticut River Valley Planning Region,0.742810452,Planning Region,09130,PEP,2022,International Migration rate,2021
+Lower Connecticut River Valley Planning Region,1.89386959,Planning Region,09130,PEP,2022,International Migration rate,2022
+Lower Connecticut River Valley Planning Region,14.28481638,Planning Region,09130,PEP,2022,Domestic Migration rate,2021
+Lower Connecticut River Valley Planning Region,3.52690684,Planning Region,09130,PEP,2022,Domestic Migration rate,2022
+Lower Connecticut River Valley Planning Region,15.02762684,Planning Region,09130,PEP,2022,Net Migration rate,2021
+Lower Connecticut River Valley Planning Region,5.42077643,Planning Region,09130,PEP,2022,Net Migration rate,2022
 Lyme,2356,Town,0913044210,PEP,2022,Estimate Base,2020
 Lyme,2351,Town,0913044210,PEP,2022,Population Estimate,2020
 Lyme,2376,Town,0913044210,PEP,2022,Population Estimate,2021
@@ -1485,18 +1485,18 @@ Naugatuck Valley Planning Region,6982,Planning Region,09140,PEP,2022,Group Quart
 Naugatuck Valley Planning Region,6878,Planning Region,09140,PEP,2022,Group Quarters Estimates,2020
 Naugatuck Valley Planning Region,7313,Planning Region,09140,PEP,2022,Group Quarters Estimates,2021
 Naugatuck Valley Planning Region,7473,Planning Region,09140,PEP,2022,Group Quarters Estimates,2022
-Naugatuck Valley Planning Region,9.3931036011,Planning Region,09140,PEP,2022,Birth (residual),2021
-Naugatuck Valley Planning Region,9.8944074657,Planning Region,09140,PEP,2022,Birth (residual),2022
-Naugatuck Valley Planning Region,9.9757418669,Planning Region,09140,PEP,2022,Death (residual),2021
-Naugatuck Valley Planning Region,10.002458717,Planning Region,09140,PEP,2022,Death (residual),2022
-Naugatuck Valley Planning Region,-0.582638266,Planning Region,09140,PEP,2022,Natural Change (residual),2021
-Naugatuck Valley Planning Region,-0.108051252,Planning Region,09140,PEP,2022,Natural Change (residual),2022
-Naugatuck Valley Planning Region,1.1431229854,Planning Region,09140,PEP,2022,International Migration (residual),2021
-Naugatuck Valley Planning Region,2.8688709857,Planning Region,09140,PEP,2022,International Migration (residual),2022
-Naugatuck Valley Planning Region,5.5804782951,Planning Region,09140,PEP,2022,Domestic Migration (residual),2021
-Naugatuck Valley Planning Region,0.3638460512,Planning Region,09140,PEP,2022,Domestic Migration (residual),2022
-Naugatuck Valley Planning Region,6.7236012805,Planning Region,09140,PEP,2022,Net Migration (residual),2021
-Naugatuck Valley Planning Region,3.2327170369,Planning Region,09140,PEP,2022,Net Migration (residual),2022
+Naugatuck Valley Planning Region,9.393103601,Planning Region,09140,PEP,2022,Birth rate,2021
+Naugatuck Valley Planning Region,9.894407466,Planning Region,09140,PEP,2022,Birth rate,2022
+Naugatuck Valley Planning Region,9.975741867,Planning Region,09140,PEP,2022,Death rate,2021
+Naugatuck Valley Planning Region,10.00245872,Planning Region,09140,PEP,2022,Death rate,2022
+Naugatuck Valley Planning Region,-0.582638266,Planning Region,09140,PEP,2022,Natural Change rate,2021
+Naugatuck Valley Planning Region,-0.108051252,Planning Region,09140,PEP,2022,Natural Change rate,2022
+Naugatuck Valley Planning Region,1.143122985,Planning Region,09140,PEP,2022,International Migration rate,2021
+Naugatuck Valley Planning Region,2.868870986,Planning Region,09140,PEP,2022,International Migration rate,2022
+Naugatuck Valley Planning Region,5.580478295,Planning Region,09140,PEP,2022,Domestic Migration rate,2021
+Naugatuck Valley Planning Region,0.363846051,Planning Region,09140,PEP,2022,Domestic Migration rate,2022
+Naugatuck Valley Planning Region,6.723601281,Planning Region,09140,PEP,2022,Net Migration rate,2021
+Naugatuck Valley Planning Region,3.232717037,Planning Region,09140,PEP,2022,Net Migration rate,2022
 New Britain,74159,Town,0911050440,PEP,2022,Estimate Base,2020
 New Britain,73974,Town,0911050440,PEP,2022,Population Estimate,2020
 New Britain,74581,Town,0911050440,PEP,2022,Population Estimate,2021
@@ -1585,18 +1585,18 @@ Northeastern Connecticut Planning Region,1776,Planning Region,09150,PEP,2022,Gro
 Northeastern Connecticut Planning Region,1712,Planning Region,09150,PEP,2022,Group Quarters Estimates,2020
 Northeastern Connecticut Planning Region,1641,Planning Region,09150,PEP,2022,Group Quarters Estimates,2021
 Northeastern Connecticut Planning Region,1678,Planning Region,09150,PEP,2022,Group Quarters Estimates,2022
-Northeastern Connecticut Planning Region,8.5976688903,Planning Region,09150,PEP,2022,Birth (residual),2021
-Northeastern Connecticut Planning Region,9.0670335168,Planning Region,09150,PEP,2022,Birth (residual),2022
-Northeastern Connecticut Planning Region,11.006272842,Planning Region,09150,PEP,2022,Death (residual),2021
-Northeastern Connecticut Planning Region,10.765799566,Planning Region,09150,PEP,2022,Death (residual),2022
-Northeastern Connecticut Planning Region,-2.408603952,Planning Region,09150,PEP,2022,Natural Change (residual),2021
-Northeastern Connecticut Planning Region,-1.69876605,Planning Region,09150,PEP,2022,Natural Change (residual),2022
-Northeastern Connecticut Planning Region,0.2827491596,Planning Region,09150,PEP,2022,International Migration (residual),2021
-Northeastern Connecticut Planning Region,0.6357345339,Planning Region,09150,PEP,2022,International Migration (residual),2022
-Northeastern Connecticut Planning Region,6.2833146579,Planning Region,09150,PEP,2022,Domestic Migration (residual),2021
-Northeastern Connecticut Planning Region,6.419876605,Planning Region,09150,PEP,2022,Domestic Migration (residual),2022
-Northeastern Connecticut Planning Region,6.5660638175,Planning Region,09150,PEP,2022,Net Migration (residual),2021
-Northeastern Connecticut Planning Region,7.0556111389,Planning Region,09150,PEP,2022,Net Migration (residual),2022
+Northeastern Connecticut Planning Region,8.59766889,Planning Region,09150,PEP,2022,Birth rate,2021
+Northeastern Connecticut Planning Region,9.067033517,Planning Region,09150,PEP,2022,Birth rate,2022
+Northeastern Connecticut Planning Region,11.00627284,Planning Region,09150,PEP,2022,Death rate,2021
+Northeastern Connecticut Planning Region,10.76579957,Planning Region,09150,PEP,2022,Death rate,2022
+Northeastern Connecticut Planning Region,-2.408603952,Planning Region,09150,PEP,2022,Natural Change rate,2021
+Northeastern Connecticut Planning Region,-1.69876605,Planning Region,09150,PEP,2022,Natural Change rate,2022
+Northeastern Connecticut Planning Region,0.28274916,Planning Region,09150,PEP,2022,International Migration rate,2021
+Northeastern Connecticut Planning Region,0.635734534,Planning Region,09150,PEP,2022,International Migration rate,2022
+Northeastern Connecticut Planning Region,6.283314658,Planning Region,09150,PEP,2022,Domestic Migration rate,2021
+Northeastern Connecticut Planning Region,6.419876605,Planning Region,09150,PEP,2022,Domestic Migration rate,2022
+Northeastern Connecticut Planning Region,6.566063818,Planning Region,09150,PEP,2022,Net Migration rate,2021
+Northeastern Connecticut Planning Region,7.055611139,Planning Region,09150,PEP,2022,Net Migration rate,2022
 Northwest Hills Planning Region,112456,Planning Region,09160,PEP,2022,Estimate Base,2020
 Northwest Hills Planning Region,112269,Planning Region,09160,PEP,2022,Population Estimate,2020
 Northwest Hills Planning Region,112974,Planning Region,09160,PEP,2022,Population Estimate,2021
@@ -1629,18 +1629,18 @@ Northwest Hills Planning Region,2344,Planning Region,09160,PEP,2022,Group Quarte
 Northwest Hills Planning Region,2346,Planning Region,09160,PEP,2022,Group Quarters Estimates,2020
 Northwest Hills Planning Region,2386,Planning Region,09160,PEP,2022,Group Quarters Estimates,2021
 Northwest Hills Planning Region,2391,Planning Region,09160,PEP,2022,Group Quarters Estimates,2022
-Northwest Hills Planning Region,7.7427489423,Planning Region,09160,PEP,2022,Birth (residual),2021
-Northwest Hills Planning Region,8.1871551846,Planning Region,09160,PEP,2022,Birth (residual),2022
-Northwest Hills Planning Region,11.143520553,Planning Region,09160,PEP,2022,Death (residual),2021
-Northwest Hills Planning Region,11.113665299,Planning Region,09160,PEP,2022,Death (residual),2022
-Northwest Hills Planning Region,-3.400771611,Planning Region,09160,PEP,2022,Natural Change (residual),2021
-Northwest Hills Planning Region,-2.926510115,Planning Region,09160,PEP,2022,Natural Change (residual),2022
-Northwest Hills Planning Region,0.6215509472,Planning Region,09160,PEP,2022,International Migration (residual),2021
-Northwest Hills Planning Region,1.4942000283,Planning Region,09160,PEP,2022,International Migration (residual),2022
-Northwest Hills Planning Region,8.746109757,Planning Region,09160,PEP,2022,Domestic Migration (residual),2021
-Northwest Hills Planning Region,4.3676616212,Planning Region,09160,PEP,2022,Domestic Migration (residual),2022
-Northwest Hills Planning Region,9.3676607042,Planning Region,09160,PEP,2022,Net Migration (residual),2021
-Northwest Hills Planning Region,5.8618616495,Planning Region,09160,PEP,2022,Net Migration (residual),2022
+Northwest Hills Planning Region,7.742748942,Planning Region,09160,PEP,2022,Birth rate,2021
+Northwest Hills Planning Region,8.187155185,Planning Region,09160,PEP,2022,Birth rate,2022
+Northwest Hills Planning Region,11.14352055,Planning Region,09160,PEP,2022,Death rate,2021
+Northwest Hills Planning Region,11.1136653,Planning Region,09160,PEP,2022,Death rate,2022
+Northwest Hills Planning Region,-3.400771611,Planning Region,09160,PEP,2022,Natural Change rate,2021
+Northwest Hills Planning Region,-2.926510115,Planning Region,09160,PEP,2022,Natural Change rate,2022
+Northwest Hills Planning Region,0.621550947,Planning Region,09160,PEP,2022,International Migration rate,2021
+Northwest Hills Planning Region,1.494200028,Planning Region,09160,PEP,2022,International Migration rate,2022
+Northwest Hills Planning Region,8.746109757,Planning Region,09160,PEP,2022,Domestic Migration rate,2021
+Northwest Hills Planning Region,4.367661621,Planning Region,09160,PEP,2022,Domestic Migration rate,2022
+Northwest Hills Planning Region,9.367660704,Planning Region,09160,PEP,2022,Net Migration rate,2021
+Northwest Hills Planning Region,5.86186165,Planning Region,09160,PEP,2022,Net Migration rate,2022
 Norwalk,91187,Town,0919056060,PEP,2022,Estimate Base,2020
 Norwalk,90928,Town,0919056060,PEP,2022,Population Estimate,2020
 Norwalk,91475,Town,0919056060,PEP,2022,Population Estimate,2021
@@ -1781,18 +1781,18 @@ South Central Connecticut Planning Region,23581,Planning Region,09170,PEP,2022,G
 South Central Connecticut Planning Region,23595,Planning Region,09170,PEP,2022,Group Quarters Estimates,2020
 South Central Connecticut Planning Region,27098,Planning Region,09170,PEP,2022,Group Quarters Estimates,2021
 South Central Connecticut Planning Region,27098,Planning Region,09170,PEP,2022,Group Quarters Estimates,2022
-South Central Connecticut Planning Region,9.6167392516,Planning Region,09170,PEP,2022,Birth (residual),2021
-South Central Connecticut Planning Region,10.137721637,Planning Region,09170,PEP,2022,Birth (residual),2022
-South Central Connecticut Planning Region,10.25552175,Planning Region,09170,PEP,2022,Death (residual),2021
-South Central Connecticut Planning Region,10.233640215,Planning Region,09170,PEP,2022,Death (residual),2022
-South Central Connecticut Planning Region,-0.638782498,Planning Region,09170,PEP,2022,Natural Change (residual),2021
-South Central Connecticut Planning Region,-0.095918577,Planning Region,09170,PEP,2022,Natural Change (residual),2022
-South Central Connecticut Planning Region,1.7518391248,Planning Region,09170,PEP,2022,International Migration (residual),2021
-South Central Connecticut Planning Region,4.4157425057,Planning Region,09170,PEP,2022,International Migration (residual),2022
-South Central Connecticut Planning Region,6.1585633169,Planning Region,09170,PEP,2022,Domestic Migration (residual),2021
-South Central Connecticut Planning Region,-4.626763376,Planning Region,09170,PEP,2022,Domestic Migration (residual),2022
-South Central Connecticut Planning Region,7.9104024417,Planning Region,09170,PEP,2022,Net Migration (residual),2021
-South Central Connecticut Planning Region,-0.21102087,Planning Region,09170,PEP,2022,Net Migration (residual),2022
+South Central Connecticut Planning Region,9.616739252,Planning Region,09170,PEP,2022,Birth rate,2021
+South Central Connecticut Planning Region,10.13772164,Planning Region,09170,PEP,2022,Birth rate,2022
+South Central Connecticut Planning Region,10.25552175,Planning Region,09170,PEP,2022,Death rate,2021
+South Central Connecticut Planning Region,10.23364022,Planning Region,09170,PEP,2022,Death rate,2022
+South Central Connecticut Planning Region,-0.638782498,Planning Region,09170,PEP,2022,Natural Change rate,2021
+South Central Connecticut Planning Region,-0.095918577,Planning Region,09170,PEP,2022,Natural Change rate,2022
+South Central Connecticut Planning Region,1.751839125,Planning Region,09170,PEP,2022,International Migration rate,2021
+South Central Connecticut Planning Region,4.415742506,Planning Region,09170,PEP,2022,International Migration rate,2022
+South Central Connecticut Planning Region,6.158563317,Planning Region,09170,PEP,2022,Domestic Migration rate,2021
+South Central Connecticut Planning Region,-4.626763376,Planning Region,09170,PEP,2022,Domestic Migration rate,2022
+South Central Connecticut Planning Region,7.910402442,Planning Region,09170,PEP,2022,Net Migration rate,2021
+South Central Connecticut Planning Region,-0.21102087,Planning Region,09170,PEP,2022,Net Migration rate,2022
 South Windsor,26917,Town,0911071390,PEP,2022,Estimate Base,2020
 South Windsor,26864,Town,0911071390,PEP,2022,Population Estimate,2020
 South Windsor,26846,Town,0911071390,PEP,2022,Population Estimate,2021
@@ -1833,18 +1833,18 @@ Southeastern Connecticut Planning Region,12281,Planning Region,09180,PEP,2022,Gr
 Southeastern Connecticut Planning Region,11791,Planning Region,09180,PEP,2022,Group Quarters Estimates,2020
 Southeastern Connecticut Planning Region,11905,Planning Region,09180,PEP,2022,Group Quarters Estimates,2021
 Southeastern Connecticut Planning Region,11805,Planning Region,09180,PEP,2022,Group Quarters Estimates,2022
-Southeastern Connecticut Planning Region,9.0272479223,Planning Region,09180,PEP,2022,Birth (residual),2021
-Southeastern Connecticut Planning Region,9.4911867552,Planning Region,09180,PEP,2022,Birth (residual),2022
-Southeastern Connecticut Planning Region,10.624706284,Planning Region,09180,PEP,2022,Death (residual),2021
-Southeastern Connecticut Planning Region,10.65439235,Planning Region,09180,PEP,2022,Death (residual),2022
-Southeastern Connecticut Planning Region,-1.597458362,Planning Region,09180,PEP,2022,Natural Change (residual),2021
-Southeastern Connecticut Planning Region,-1.163205595,Planning Region,09180,PEP,2022,Natural Change (residual),2022
-Southeastern Connecticut Planning Region,1.2150689998,Planning Region,09180,PEP,2022,International Migration (residual),2021
-Southeastern Connecticut Planning Region,3.3825733248,Planning Region,09180,PEP,2022,International Migration (residual),2022
-Southeastern Connecticut Planning Region,1.8190297674,Planning Region,09180,PEP,2022,Domestic Migration (residual),2021
-Southeastern Connecticut Planning Region,-0.71719118,Planning Region,09180,PEP,2022,Domestic Migration (residual),2022
-Southeastern Connecticut Planning Region,3.0340987672,Planning Region,09180,PEP,2022,Net Migration (residual),2021
-Southeastern Connecticut Planning Region,2.6653821452,Planning Region,09180,PEP,2022,Net Migration (residual),2022
+Southeastern Connecticut Planning Region,9.027247922,Planning Region,09180,PEP,2022,Birth rate,2021
+Southeastern Connecticut Planning Region,9.491186755,Planning Region,09180,PEP,2022,Birth rate,2022
+Southeastern Connecticut Planning Region,10.62470628,Planning Region,09180,PEP,2022,Death rate,2021
+Southeastern Connecticut Planning Region,10.65439235,Planning Region,09180,PEP,2022,Death rate,2022
+Southeastern Connecticut Planning Region,-1.597458362,Planning Region,09180,PEP,2022,Natural Change rate,2021
+Southeastern Connecticut Planning Region,-1.163205595,Planning Region,09180,PEP,2022,Natural Change rate,2022
+Southeastern Connecticut Planning Region,1.215069,Planning Region,09180,PEP,2022,International Migration rate,2021
+Southeastern Connecticut Planning Region,3.382573325,Planning Region,09180,PEP,2022,International Migration rate,2022
+Southeastern Connecticut Planning Region,1.819029767,Planning Region,09180,PEP,2022,Domestic Migration rate,2021
+Southeastern Connecticut Planning Region,-0.71719118,Planning Region,09180,PEP,2022,Domestic Migration rate,2022
+Southeastern Connecticut Planning Region,3.034098767,Planning Region,09180,PEP,2022,Net Migration rate,2021
+Southeastern Connecticut Planning Region,2.665382145,Planning Region,09180,PEP,2022,Net Migration rate,2022
 Southington,43518,Town,0911070550,PEP,2022,Estimate Base,2020
 Southington,43460,Town,0911070550,PEP,2022,Population Estimate,2020
 Southington,43633,Town,0911070550,PEP,2022,Population Estimate,2021
@@ -1977,18 +1977,18 @@ Western Connecticut Planning Region,8376,Planning Region,09190,PEP,2022,Group Qu
 Western Connecticut Planning Region,8372,Planning Region,09190,PEP,2022,Group Quarters Estimates,2020
 Western Connecticut Planning Region,8498,Planning Region,09190,PEP,2022,Group Quarters Estimates,2021
 Western Connecticut Planning Region,8633,Planning Region,09190,PEP,2022,Group Quarters Estimates,2022
-Western Connecticut Planning Region,9.8554898183,Planning Region,09190,PEP,2022,Birth (residual),2021
-Western Connecticut Planning Region,10.372610921,Planning Region,09190,PEP,2022,Birth (residual),2022
-Western Connecticut Planning Region,8.1292507431,Planning Region,09190,PEP,2022,Death (residual),2021
-Western Connecticut Planning Region,8.2423064994,Planning Region,09190,PEP,2022,Death (residual),2022
-Western Connecticut Planning Region,1.7262390753,Planning Region,09190,PEP,2022,Natural Change (residual),2021
-Western Connecticut Planning Region,2.1303044219,Planning Region,09190,PEP,2022,Natural Change (residual),2022
-Western Connecticut Planning Region,2.4678944468,Planning Region,09190,PEP,2022,International Migration (residual),2021
-Western Connecticut Planning Region,6.6698244543,Planning Region,09190,PEP,2022,International Migration (residual),2022
-Western Connecticut Planning Region,3.1355451609,Planning Region,09190,PEP,2022,Domestic Migration (residual),2021
-Western Connecticut Planning Region,-9.507024474,Planning Region,09190,PEP,2022,Domestic Migration (residual),2022
-Western Connecticut Planning Region,5.6034396078,Planning Region,09190,PEP,2022,Net Migration (residual),2021
-Western Connecticut Planning Region,-2.83720002,Planning Region,09190,PEP,2022,Net Migration (residual),2022
+Western Connecticut Planning Region,9.855489818,Planning Region,09190,PEP,2022,Birth rate,2021
+Western Connecticut Planning Region,10.37261092,Planning Region,09190,PEP,2022,Birth rate,2022
+Western Connecticut Planning Region,8.129250743,Planning Region,09190,PEP,2022,Death rate,2021
+Western Connecticut Planning Region,8.242306499,Planning Region,09190,PEP,2022,Death rate,2022
+Western Connecticut Planning Region,1.726239075,Planning Region,09190,PEP,2022,Natural Change rate,2021
+Western Connecticut Planning Region,2.130304422,Planning Region,09190,PEP,2022,Natural Change rate,2022
+Western Connecticut Planning Region,2.467894447,Planning Region,09190,PEP,2022,International Migration rate,2021
+Western Connecticut Planning Region,6.669824454,Planning Region,09190,PEP,2022,International Migration rate,2022
+Western Connecticut Planning Region,3.135545161,Planning Region,09190,PEP,2022,Domestic Migration rate,2021
+Western Connecticut Planning Region,-9.507024474,Planning Region,09190,PEP,2022,Domestic Migration rate,2022
+Western Connecticut Planning Region,5.603439608,Planning Region,09190,PEP,2022,Net Migration rate,2021
+Western Connecticut Planning Region,-2.83720002,Planning Region,09190,PEP,2022,Net Migration rate,2022
 Weston,10353,Town,0919083430,PEP,2022,Estimate Base,2020
 Weston,10317,Town,0919083430,PEP,2022,Population Estimate,2020
 Weston,10368,Town,0919083430,PEP,2022,Population Estimate,2021
@@ -2198,24 +2198,24 @@ Capitol Planning Region,24447,Planning Region,09110,PEP,2023,Group Quarters Esti
 Capitol Planning Region,31086,Planning Region,09110,PEP,2023,Group Quarters Estimates,2021
 Capitol Planning Region,33597,Planning Region,09110,PEP,2023,Group Quarters Estimates,2022
 Capitol Planning Region,33794,Planning Region,09110,PEP,2023,Group Quarters Estimates,2023
-Capitol Planning Region,9.5406239748,Planning Region,09110,PEP,2023,Birth (residual),2021
-Capitol Planning Region,9.8248902024,Planning Region,09110,PEP,2023,Birth (residual),2022
-Capitol Planning Region,9.6446742214,Planning Region,09110,PEP,2023,Birth (residual),2023
-Capitol Planning Region,9.8252179213,Planning Region,09110,PEP,2023,Death (residual),2021
-Capitol Planning Region,9.9752343979,Planning Region,09110,PEP,2023,Death (residual),2022
-Capitol Planning Region,9.3817590259,Planning Region,09110,PEP,2023,Death (residual),2023
-Capitol Planning Region,-0.284593947,Planning Region,09110,PEP,2023,Natural Change (residual),2021
-Capitol Planning Region,-0.150344196,Planning Region,09110,PEP,2023,Natural Change (residual),2022
-Capitol Planning Region,0.2629151955,Planning Region,09110,PEP,2023,Natural Change (residual),2023
-Capitol Planning Region,1.7562033719,Planning Region,09110,PEP,2023,International Migration (residual),2021
-Capitol Planning Region,4.5803491898,Planning Region,09110,PEP,2023,International Migration (residual),2022
-Capitol Planning Region,4.4613422232,Planning Region,09110,PEP,2023,International Migration (residual),2023
-Capitol Planning Region,6.1565432288,Planning Region,09110,PEP,2023,Domestic Migration (residual),2021
-Capitol Planning Region,-1.956534051,Planning Region,09110,PEP,2023,Domestic Migration (residual),2022
-Capitol Planning Region,-1.392628926,Planning Region,09110,PEP,2023,Domestic Migration (residual),2023
-Capitol Planning Region,7.9127466007,Planning Region,09110,PEP,2023,Net Migration (residual),2021
-Capitol Planning Region,2.6238151384,Planning Region,09110,PEP,2023,Net Migration (residual),2022
-Capitol Planning Region,3.0687132971,Planning Region,09110,PEP,2023,Net Migration (residual),2023
+Capitol Planning Region,9.540623975,Planning Region,09110,PEP,2023,Birth rate,2021
+Capitol Planning Region,9.824890202,Planning Region,09110,PEP,2023,Birth rate,2022
+Capitol Planning Region,9.644674221,Planning Region,09110,PEP,2023,Birth rate,2023
+Capitol Planning Region,9.825217921,Planning Region,09110,PEP,2023,Death rate,2021
+Capitol Planning Region,9.975234398,Planning Region,09110,PEP,2023,Death rate,2022
+Capitol Planning Region,9.381759026,Planning Region,09110,PEP,2023,Death rate,2023
+Capitol Planning Region,-0.284593947,Planning Region,09110,PEP,2023,Natural Change rate,2021
+Capitol Planning Region,-0.150344196,Planning Region,09110,PEP,2023,Natural Change rate,2022
+Capitol Planning Region,0.262915196,Planning Region,09110,PEP,2023,Natural Change rate,2023
+Capitol Planning Region,1.756203372,Planning Region,09110,PEP,2023,International Migration rate,2021
+Capitol Planning Region,4.58034919,Planning Region,09110,PEP,2023,International Migration rate,2022
+Capitol Planning Region,4.461342223,Planning Region,09110,PEP,2023,International Migration rate,2023
+Capitol Planning Region,6.156543229,Planning Region,09110,PEP,2023,Domestic Migration rate,2021
+Capitol Planning Region,-1.956534051,Planning Region,09110,PEP,2023,Domestic Migration rate,2022
+Capitol Planning Region,-1.392628926,Planning Region,09110,PEP,2023,Domestic Migration rate,2023
+Capitol Planning Region,7.912746601,Planning Region,09110,PEP,2023,Net Migration rate,2021
+Capitol Planning Region,2.623815138,Planning Region,09110,PEP,2023,Net Migration rate,2022
+Capitol Planning Region,3.068713297,Planning Region,09110,PEP,2023,Net Migration rate,2023
 Chaplin,2152,Town,0915013810,PEP,2023,Estimate Base,2020
 Chaplin,2150,Town,0915013810,PEP,2023,Population Estimate,2020
 Chaplin,2152,Town,0915013810,PEP,2023,Population Estimate,2021
@@ -2288,24 +2288,24 @@ Connecticut,-3843,State,09,PEP,2023,Residual,2020
 Connecticut,1485,State,09,PEP,2023,Residual,2021
 Connecticut,-1205,State,09,PEP,2023,Residual,2022
 Connecticut,107,State,09,PEP,2023,Residual,2023
-Connecticut,9.4529148507,State,09,PEP,2023,Birth (residual),2021
-Connecticut,9.8641270024,State,09,PEP,2023,Birth (residual),2022
-Connecticut,9.6754970535,State,09,PEP,2023,Birth (residual),2023
-Connecticut,9.628092608,State,09,PEP,2023,Death (residual),2021
-Connecticut,9.6592020656,State,09,PEP,2023,Death (residual),2022
-Connecticut,9.0901013883,State,09,PEP,2023,Death (residual),2023
-Connecticut,-0.175177757,State,09,PEP,2023,Natural Change (residual),2021
-Connecticut,0.2049249369,State,09,PEP,2023,Natural Change (residual),2022
-Connecticut,0.5853956652,State,09,PEP,2023,Natural Change (residual),2023
-Connecticut,1.7314469279,State,09,PEP,2023,International Migration (residual),2021
-Connecticut,4.3153475883,State,09,PEP,2023,International Migration (residual),2022
-Connecticut,4.2248129709,State,09,PEP,2023,International Migration (residual),2023
-Connecticut,5.3004500453,State,09,PEP,2023,Domestic Migration (residual),2021
-Connecticut,-2.795464531,State,09,PEP,2023,Domestic Migration (residual),2022
-Connecticut,-2.495473909,State,09,PEP,2023,Domestic Migration (residual),2023
-Connecticut,7.0318969732,State,09,PEP,2023,Net Migration (residual),2021
-Connecticut,1.5198830569,State,09,PEP,2023,Net Migration (residual),2022
-Connecticut,1.729339062,State,09,PEP,2023,Net Migration (residual),2023
+Connecticut,9.452914851,State,09,PEP,2023,Birth rate,2021
+Connecticut,9.864127002,State,09,PEP,2023,Birth rate,2022
+Connecticut,9.675497054,State,09,PEP,2023,Birth rate,2023
+Connecticut,9.628092608,State,09,PEP,2023,Death rate,2021
+Connecticut,9.659202066,State,09,PEP,2023,Death rate,2022
+Connecticut,9.090101388,State,09,PEP,2023,Death rate,2023
+Connecticut,-0.175177757,State,09,PEP,2023,Natural Change rate,2021
+Connecticut,0.204924937,State,09,PEP,2023,Natural Change rate,2022
+Connecticut,0.585395665,State,09,PEP,2023,Natural Change rate,2023
+Connecticut,1.731446928,State,09,PEP,2023,International Migration rate,2021
+Connecticut,4.315347588,State,09,PEP,2023,International Migration rate,2022
+Connecticut,4.224812971,State,09,PEP,2023,International Migration rate,2023
+Connecticut,5.300450045,State,09,PEP,2023,Domestic Migration rate,2021
+Connecticut,-2.795464531,State,09,PEP,2023,Domestic Migration rate,2022
+Connecticut,-2.495473909,State,09,PEP,2023,Domestic Migration rate,2023
+Connecticut,7.031896973,State,09,PEP,2023,Net Migration rate,2021
+Connecticut,1.519883057,State,09,PEP,2023,Net Migration rate,2022
+Connecticut,1.729339062,State,09,PEP,2023,Net Migration rate,2023
 Cornwall,1567,Town,0916017240,PEP,2023,Estimate Base,2020
 Cornwall,1565,Town,0916017240,PEP,2023,Population Estimate,2020
 Cornwall,1571,Town,0916017240,PEP,2023,Population Estimate,2021
@@ -2478,24 +2478,24 @@ Greater Bridgeport Planning Region,9202,Planning Region,09120,PEP,2023,Group Qua
 Greater Bridgeport Planning Region,10202,Planning Region,09120,PEP,2023,Group Quarters Estimates,2021
 Greater Bridgeport Planning Region,10550,Planning Region,09120,PEP,2023,Group Quarters Estimates,2022
 Greater Bridgeport Planning Region,10471,Planning Region,09120,PEP,2023,Group Quarters Estimates,2023
-Greater Bridgeport Planning Region,9.970221412,Planning Region,09120,PEP,2023,Birth (residual),2021
-Greater Bridgeport Planning Region,10.488211086,Planning Region,09120,PEP,2023,Birth (residual),2022
-Greater Bridgeport Planning Region,10.305814508,Planning Region,09120,PEP,2023,Birth (residual),2023
-Greater Bridgeport Planning Region,7.8355005613,Planning Region,09120,PEP,2023,Death (residual),2021
-Greater Bridgeport Planning Region,7.8546882671,Planning Region,09120,PEP,2023,Death (residual),2022
-Greater Bridgeport Planning Region,7.3307512798,Planning Region,09120,PEP,2023,Death (residual),2023
-Greater Bridgeport Planning Region,2.1347208507,Planning Region,09120,PEP,2023,Natural Change (residual),2021
-Greater Bridgeport Planning Region,2.6335228185,Planning Region,09120,PEP,2023,Natural Change (residual),2022
-Greater Bridgeport Planning Region,2.9750632277,Planning Region,09120,PEP,2023,Natural Change (residual),2023
-Greater Bridgeport Planning Region,2.7705297947,Planning Region,09120,PEP,2023,International Migration (residual),2021
-Greater Bridgeport Planning Region,6.4752239336,Planning Region,09120,PEP,2023,International Migration (residual),2022
-Greater Bridgeport Planning Region,6.3380453774,Planning Region,09120,PEP,2023,International Migration (residual),2023
-Greater Bridgeport Planning Region,1.6954905174,Planning Region,09120,PEP,2023,Domestic Migration (residual),2021
-Greater Bridgeport Planning Region,-7.96174204,Planning Region,09120,PEP,2023,Domestic Migration (residual),2022
-Greater Bridgeport Planning Region,-7.813359072,Planning Region,09120,PEP,2023,Domestic Migration (residual),2023
-Greater Bridgeport Planning Region,4.4660203121,Planning Region,09120,PEP,2023,Net Migration (residual),2021
-Greater Bridgeport Planning Region,-1.486518107,Planning Region,09120,PEP,2023,Net Migration (residual),2022
-Greater Bridgeport Planning Region,-1.475313695,Planning Region,09120,PEP,2023,Net Migration (residual),2023
+Greater Bridgeport Planning Region,9.970221412,Planning Region,09120,PEP,2023,Birth rate,2021
+Greater Bridgeport Planning Region,10.48821109,Planning Region,09120,PEP,2023,Birth rate,2022
+Greater Bridgeport Planning Region,10.30581451,Planning Region,09120,PEP,2023,Birth rate,2023
+Greater Bridgeport Planning Region,7.835500561,Planning Region,09120,PEP,2023,Death rate,2021
+Greater Bridgeport Planning Region,7.854688267,Planning Region,09120,PEP,2023,Death rate,2022
+Greater Bridgeport Planning Region,7.33075128,Planning Region,09120,PEP,2023,Death rate,2023
+Greater Bridgeport Planning Region,2.134720851,Planning Region,09120,PEP,2023,Natural Change rate,2021
+Greater Bridgeport Planning Region,2.633522819,Planning Region,09120,PEP,2023,Natural Change rate,2022
+Greater Bridgeport Planning Region,2.975063228,Planning Region,09120,PEP,2023,Natural Change rate,2023
+Greater Bridgeport Planning Region,2.770529795,Planning Region,09120,PEP,2023,International Migration rate,2021
+Greater Bridgeport Planning Region,6.475223934,Planning Region,09120,PEP,2023,International Migration rate,2022
+Greater Bridgeport Planning Region,6.338045377,Planning Region,09120,PEP,2023,International Migration rate,2023
+Greater Bridgeport Planning Region,1.695490517,Planning Region,09120,PEP,2023,Domestic Migration rate,2021
+Greater Bridgeport Planning Region,-7.96174204,Planning Region,09120,PEP,2023,Domestic Migration rate,2022
+Greater Bridgeport Planning Region,-7.813359072,Planning Region,09120,PEP,2023,Domestic Migration rate,2023
+Greater Bridgeport Planning Region,4.466020312,Planning Region,09120,PEP,2023,Net Migration rate,2021
+Greater Bridgeport Planning Region,-1.486518107,Planning Region,09120,PEP,2023,Net Migration rate,2022
+Greater Bridgeport Planning Region,-1.475313695,Planning Region,09120,PEP,2023,Net Migration rate,2023
 Greenwich,63525,Town,0919033620,PEP,2023,Estimate Base,2020
 Greenwich,63344,Town,0919033620,PEP,2023,Population Estimate,2020
 Greenwich,63635,Town,0919033620,PEP,2023,Population Estimate,2021
@@ -2628,24 +2628,24 @@ Lower Connecticut River Valley Planning Region,5826,Planning Region,09130,PEP,20
 Lower Connecticut River Valley Planning Region,6548,Planning Region,09130,PEP,2023,Group Quarters Estimates,2021
 Lower Connecticut River Valley Planning Region,6521,Planning Region,09130,PEP,2023,Group Quarters Estimates,2022
 Lower Connecticut River Valley Planning Region,6535,Planning Region,09130,PEP,2023,Group Quarters Estimates,2023
-Lower Connecticut River Valley Planning Region,7.7717681203,Planning Region,09130,PEP,2023,Birth (residual),2021
-Lower Connecticut River Valley Planning Region,8.2068910567,Planning Region,09130,PEP,2023,Birth (residual),2022
-Lower Connecticut River Valley Planning Region,8.1318125935,Planning Region,09130,PEP,2023,Birth (residual),2023
-Lower Connecticut River Valley Planning Region,10.209407568,Planning Region,09130,PEP,2023,Death (residual),2021
-Lower Connecticut River Valley Planning Region,10.244385508,Planning Region,09130,PEP,2023,Death (residual),2022
-Lower Connecticut River Valley Planning Region,9.7842968566,Planning Region,09130,PEP,2023,Death (residual),2023
-Lower Connecticut River Valley Planning Region,-2.437639447,Planning Region,09130,PEP,2023,Natural Change (residual),2021
-Lower Connecticut River Valley Planning Region,-2.037494451,Planning Region,09130,PEP,2023,Natural Change (residual),2022
-Lower Connecticut River Valley Planning Region,-1.652484263,Planning Region,09130,PEP,2023,Natural Change (residual),2023
-Lower Connecticut River Valley Planning Region,0.7456308898,Planning Region,09130,PEP,2023,International Migration (residual),2021
-Lower Connecticut River Valley Planning Region,2.179777583,Planning Region,09130,PEP,2023,International Migration (residual),2022
-Lower Connecticut River Valley Planning Region,2.0897395492,Planning Region,09130,PEP,2023,International Migration (residual),2023
-Lower Connecticut River Valley Planning Region,14.253021239,Planning Region,09130,PEP,2023,Domestic Migration (residual),2021
-Lower Connecticut River Valley Planning Region,3.5286216748,Planning Region,09130,PEP,2023,Domestic Migration (residual),2022
-Lower Connecticut River Valley Planning Region,0.9199396928,Planning Region,09130,PEP,2023,Domestic Migration (residual),2023
-Lower Connecticut River Valley Planning Region,14.998652129,Planning Region,09130,PEP,2023,Net Migration (residual),2021
-Lower Connecticut River Valley Planning Region,5.7083992579,Planning Region,09130,PEP,2023,Net Migration (residual),2022
-Lower Connecticut River Valley Planning Region,3.009679242,Planning Region,09130,PEP,2023,Net Migration (residual),2023
+Lower Connecticut River Valley Planning Region,7.77176812,Planning Region,09130,PEP,2023,Birth rate,2021
+Lower Connecticut River Valley Planning Region,8.206891057,Planning Region,09130,PEP,2023,Birth rate,2022
+Lower Connecticut River Valley Planning Region,8.131812594,Planning Region,09130,PEP,2023,Birth rate,2023
+Lower Connecticut River Valley Planning Region,10.20940757,Planning Region,09130,PEP,2023,Death rate,2021
+Lower Connecticut River Valley Planning Region,10.24438551,Planning Region,09130,PEP,2023,Death rate,2022
+Lower Connecticut River Valley Planning Region,9.784296857,Planning Region,09130,PEP,2023,Death rate,2023
+Lower Connecticut River Valley Planning Region,-2.437639447,Planning Region,09130,PEP,2023,Natural Change rate,2021
+Lower Connecticut River Valley Planning Region,-2.037494451,Planning Region,09130,PEP,2023,Natural Change rate,2022
+Lower Connecticut River Valley Planning Region,-1.652484263,Planning Region,09130,PEP,2023,Natural Change rate,2023
+Lower Connecticut River Valley Planning Region,0.74563089,Planning Region,09130,PEP,2023,International Migration rate,2021
+Lower Connecticut River Valley Planning Region,2.179777583,Planning Region,09130,PEP,2023,International Migration rate,2022
+Lower Connecticut River Valley Planning Region,2.089739549,Planning Region,09130,PEP,2023,International Migration rate,2023
+Lower Connecticut River Valley Planning Region,14.25302124,Planning Region,09130,PEP,2023,Domestic Migration rate,2021
+Lower Connecticut River Valley Planning Region,3.528621675,Planning Region,09130,PEP,2023,Domestic Migration rate,2022
+Lower Connecticut River Valley Planning Region,0.919939693,Planning Region,09130,PEP,2023,Domestic Migration rate,2023
+Lower Connecticut River Valley Planning Region,14.99865213,Planning Region,09130,PEP,2023,Net Migration rate,2021
+Lower Connecticut River Valley Planning Region,5.708399258,Planning Region,09130,PEP,2023,Net Migration rate,2022
+Lower Connecticut River Valley Planning Region,3.009679242,Planning Region,09130,PEP,2023,Net Migration rate,2023
 Lyme,2352,Town,0913044210,PEP,2023,Estimate Base,2020
 Lyme,2347,Town,0913044210,PEP,2023,Population Estimate,2020
 Lyme,2370,Town,0913044210,PEP,2023,Population Estimate,2021
@@ -2758,24 +2758,24 @@ Naugatuck Valley Planning Region,6252,Planning Region,09140,PEP,2023,Group Quart
 Naugatuck Valley Planning Region,6644,Planning Region,09140,PEP,2023,Group Quarters Estimates,2021
 Naugatuck Valley Planning Region,6851,Planning Region,09140,PEP,2023,Group Quarters Estimates,2022
 Naugatuck Valley Planning Region,6855,Planning Region,09140,PEP,2023,Group Quarters Estimates,2023
-Naugatuck Valley Planning Region,9.5101190595,Planning Region,09140,PEP,2023,Birth (residual),2021
-Naugatuck Valley Planning Region,9.818174994,Planning Region,09140,PEP,2023,Birth (residual),2022
-Naugatuck Valley Planning Region,9.646945537,Planning Region,09140,PEP,2023,Birth (residual),2023
-Naugatuck Valley Planning Region,9.9604466007,Planning Region,09140,PEP,2023,Death (residual),2021
-Naugatuck Valley Planning Region,9.9418129071,Planning Region,09140,PEP,2023,Death (residual),2022
-Naugatuck Valley Planning Region,9.2666078939,Planning Region,09140,PEP,2023,Death (residual),2023
-Naugatuck Valley Planning Region,-0.450327541,Planning Region,09140,PEP,2023,Natural Change (residual),2021
-Naugatuck Valley Planning Region,-0.123637913,Planning Region,09140,PEP,2023,Natural Change (residual),2022
-Naugatuck Valley Planning Region,0.3803376431,Planning Region,09140,PEP,2023,Natural Change (residual),2023
-Naugatuck Valley Planning Region,1.1446749323,Planning Region,09140,PEP,2023,International Migration (residual),2021
-Naugatuck Valley Planning Region,3.1527667847,Planning Region,09140,PEP,2023,International Migration (residual),2022
-Naugatuck Valley Planning Region,3.0119223759,Planning Region,09140,PEP,2023,International Migration (residual),2023
-Naugatuck Valley Planning Region,5.4349875661,Planning Region,09140,PEP,2023,Domestic Migration (residual),2021
-Naugatuck Valley Planning Region,0.4327326959,Planning Region,09140,PEP,2023,Domestic Migration (residual),2022
-Naugatuck Valley Planning Region,2.2336592219,Planning Region,09140,PEP,2023,Domestic Migration (residual),2023
-Naugatuck Valley Planning Region,6.5796624984,Planning Region,09140,PEP,2023,Net Migration (residual),2021
-Naugatuck Valley Planning Region,3.5854994806,Planning Region,09140,PEP,2023,Net Migration (residual),2022
-Naugatuck Valley Planning Region,5.2455815978,Planning Region,09140,PEP,2023,Net Migration (residual),2023
+Naugatuck Valley Planning Region,9.51011906,Planning Region,09140,PEP,2023,Birth rate,2021
+Naugatuck Valley Planning Region,9.818174994,Planning Region,09140,PEP,2023,Birth rate,2022
+Naugatuck Valley Planning Region,9.646945537,Planning Region,09140,PEP,2023,Birth rate,2023
+Naugatuck Valley Planning Region,9.960446601,Planning Region,09140,PEP,2023,Death rate,2021
+Naugatuck Valley Planning Region,9.941812907,Planning Region,09140,PEP,2023,Death rate,2022
+Naugatuck Valley Planning Region,9.266607894,Planning Region,09140,PEP,2023,Death rate,2023
+Naugatuck Valley Planning Region,-0.450327541,Planning Region,09140,PEP,2023,Natural Change rate,2021
+Naugatuck Valley Planning Region,-0.123637913,Planning Region,09140,PEP,2023,Natural Change rate,2022
+Naugatuck Valley Planning Region,0.380337643,Planning Region,09140,PEP,2023,Natural Change rate,2023
+Naugatuck Valley Planning Region,1.144674932,Planning Region,09140,PEP,2023,International Migration rate,2021
+Naugatuck Valley Planning Region,3.152766785,Planning Region,09140,PEP,2023,International Migration rate,2022
+Naugatuck Valley Planning Region,3.011922376,Planning Region,09140,PEP,2023,International Migration rate,2023
+Naugatuck Valley Planning Region,5.434987566,Planning Region,09140,PEP,2023,Domestic Migration rate,2021
+Naugatuck Valley Planning Region,0.432732696,Planning Region,09140,PEP,2023,Domestic Migration rate,2022
+Naugatuck Valley Planning Region,2.233659222,Planning Region,09140,PEP,2023,Domestic Migration rate,2023
+Naugatuck Valley Planning Region,6.579662498,Planning Region,09140,PEP,2023,Net Migration rate,2021
+Naugatuck Valley Planning Region,3.585499481,Planning Region,09140,PEP,2023,Net Migration rate,2022
+Naugatuck Valley Planning Region,5.245581598,Planning Region,09140,PEP,2023,Net Migration rate,2023
 New Britain,74155,Town,0911050440,PEP,2023,Estimate Base,2020
 New Britain,72755,Town,0911050440,PEP,2023,Population Estimate,2020
 New Britain,73370,Town,0911050440,PEP,2023,Population Estimate,2021
@@ -2888,24 +2888,24 @@ Northeastern Connecticut Planning Region,1657,Planning Region,09150,PEP,2023,Gro
 Northeastern Connecticut Planning Region,1591,Planning Region,09150,PEP,2023,Group Quarters Estimates,2021
 Northeastern Connecticut Planning Region,1672,Planning Region,09150,PEP,2023,Group Quarters Estimates,2022
 Northeastern Connecticut Planning Region,1732,Planning Region,09150,PEP,2023,Group Quarters Estimates,2023
-Northeastern Connecticut Planning Region,8.2692700718,Planning Region,09150,PEP,2023,Birth (residual),2021
-Northeastern Connecticut Planning Region,9.2619150678,Planning Region,09150,PEP,2023,Birth (residual),2022
-Northeastern Connecticut Planning Region,8.5770587015,Planning Region,09150,PEP,2023,Birth (residual),2023
-Northeastern Connecticut Planning Region,11.161942492,Planning Region,09150,PEP,2023,Death (residual),2021
-Northeastern Connecticut Planning Region,11.024599354,Planning Region,09150,PEP,2023,Death (residual),2022
-Northeastern Connecticut Planning Region,10.526861647,Planning Region,09150,PEP,2023,Death (residual),2023
-Northeastern Connecticut Planning Region,-2.892672421,Planning Region,09150,PEP,2023,Natural Change (residual),2021
-Northeastern Connecticut Planning Region,-1.762684287,Planning Region,09150,PEP,2023,Natural Change (residual),2022
-Northeastern Connecticut Planning Region,-1.949802945,Planning Region,09150,PEP,2023,Natural Change (residual),2023
-Northeastern Connecticut Planning Region,0.2829788238,Planning Region,09150,PEP,2023,International Migration (residual),2021
-Northeastern Connecticut Planning Region,1.0638686227,Planning Region,09150,PEP,2023,International Migration (residual),2022
-Northeastern Connecticut Planning Region,1.0060153495,Planning Region,09150,PEP,2023,International Migration (residual),2023
-Northeastern Connecticut Planning Region,6.2255341225,Planning Region,09150,PEP,2023,Domestic Migration (residual),2021
-Northeastern Connecticut Planning Region,6.6752541029,Planning Region,09150,PEP,2023,Domestic Migration (residual),2022
-Northeastern Connecticut Planning Region,6.544285418,Planning Region,09150,PEP,2023,Domestic Migration (residual),2023
-Northeastern Connecticut Planning Region,6.5085129463,Planning Region,09150,PEP,2023,Net Migration (residual),2021
-Northeastern Connecticut Planning Region,7.7391227256,Planning Region,09150,PEP,2023,Net Migration (residual),2022
-Northeastern Connecticut Planning Region,7.5503007675,Planning Region,09150,PEP,2023,Net Migration (residual),2023
+Northeastern Connecticut Planning Region,8.269270072,Planning Region,09150,PEP,2023,Birth rate,2021
+Northeastern Connecticut Planning Region,9.261915068,Planning Region,09150,PEP,2023,Birth rate,2022
+Northeastern Connecticut Planning Region,8.577058702,Planning Region,09150,PEP,2023,Birth rate,2023
+Northeastern Connecticut Planning Region,11.16194249,Planning Region,09150,PEP,2023,Death rate,2021
+Northeastern Connecticut Planning Region,11.02459935,Planning Region,09150,PEP,2023,Death rate,2022
+Northeastern Connecticut Planning Region,10.52686165,Planning Region,09150,PEP,2023,Death rate,2023
+Northeastern Connecticut Planning Region,-2.892672421,Planning Region,09150,PEP,2023,Natural Change rate,2021
+Northeastern Connecticut Planning Region,-1.762684287,Planning Region,09150,PEP,2023,Natural Change rate,2022
+Northeastern Connecticut Planning Region,-1.949802945,Planning Region,09150,PEP,2023,Natural Change rate,2023
+Northeastern Connecticut Planning Region,0.282978824,Planning Region,09150,PEP,2023,International Migration rate,2021
+Northeastern Connecticut Planning Region,1.063868623,Planning Region,09150,PEP,2023,International Migration rate,2022
+Northeastern Connecticut Planning Region,1.00601535,Planning Region,09150,PEP,2023,International Migration rate,2023
+Northeastern Connecticut Planning Region,6.225534123,Planning Region,09150,PEP,2023,Domestic Migration rate,2021
+Northeastern Connecticut Planning Region,6.675254103,Planning Region,09150,PEP,2023,Domestic Migration rate,2022
+Northeastern Connecticut Planning Region,6.544285418,Planning Region,09150,PEP,2023,Domestic Migration rate,2023
+Northeastern Connecticut Planning Region,6.508512946,Planning Region,09150,PEP,2023,Net Migration rate,2021
+Northeastern Connecticut Planning Region,7.739122726,Planning Region,09150,PEP,2023,Net Migration rate,2022
+Northeastern Connecticut Planning Region,7.550300768,Planning Region,09150,PEP,2023,Net Migration rate,2023
 Northwest Hills Planning Region,112465,Planning Region,09160,PEP,2023,Estimate Base,2020
 Northwest Hills Planning Region,112202,Planning Region,09160,PEP,2023,Population Estimate,2020
 Northwest Hills Planning Region,112953,Planning Region,09160,PEP,2023,Population Estimate,2021
@@ -2948,24 +2948,24 @@ Northwest Hills Planning Region,2282,Planning Region,09160,PEP,2023,Group Quarte
 Northwest Hills Planning Region,2357,Planning Region,09160,PEP,2023,Group Quarters Estimates,2021
 Northwest Hills Planning Region,2366,Planning Region,09160,PEP,2023,Group Quarters Estimates,2022
 Northwest Hills Planning Region,2365,Planning Region,09160,PEP,2023,Group Quarters Estimates,2023
-Northwest Hills Planning Region,7.763540672,Planning Region,09160,PEP,2023,Birth (residual),2021
-Northwest Hills Planning Region,8.2659240596,Planning Region,09160,PEP,2023,Birth (residual),2022
-Northwest Hills Planning Region,8.1238422863,Planning Region,09160,PEP,2023,Birth (residual),2023
-Northwest Hills Planning Region,10.83697897,Planning Region,09160,PEP,2023,Death (residual),2021
-Northwest Hills Planning Region,10.900411086,Planning Region,09160,PEP,2023,Death (residual),2022
-Northwest Hills Planning Region,10.514245391,Planning Region,09160,PEP,2023,Death (residual),2023
-Northwest Hills Planning Region,-3.073438298,Planning Region,09160,PEP,2023,Natural Change (residual),2021
-Northwest Hills Planning Region,-2.634487026,Planning Region,09160,PEP,2023,Natural Change (residual),2022
-Northwest Hills Planning Region,-2.390403105,Planning Region,09160,PEP,2023,Natural Change (residual),2023
-Northwest Hills Planning Region,0.6217938753,Planning Region,09160,PEP,2023,International Migration (residual),2021
-Northwest Hills Planning Region,1.9802855501,Planning Region,09160,PEP,2023,International Migration (residual),2022
-Northwest Hills Planning Region,1.887624592,Planning Region,09160,PEP,2023,International Migration (residual),2023
-Northwest Hills Planning Region,8.8383557993,Planning Region,09160,PEP,2023,Domestic Migration (residual),2021
-Northwest Hills Planning Region,4.2434690359,Planning Region,09160,PEP,2023,Domestic Migration (residual),2022
-Northwest Hills Planning Region,2.1963482403,Planning Region,09160,PEP,2023,Domestic Migration (residual),2023
-Northwest Hills Planning Region,9.4601496747,Planning Region,09160,PEP,2023,Net Migration (residual),2021
-Northwest Hills Planning Region,6.223754586,Planning Region,09160,PEP,2023,Net Migration (residual),2022
-Northwest Hills Planning Region,4.0839728323,Planning Region,09160,PEP,2023,Net Migration (residual),2023
+Northwest Hills Planning Region,7.763540672,Planning Region,09160,PEP,2023,Birth rate,2021
+Northwest Hills Planning Region,8.26592406,Planning Region,09160,PEP,2023,Birth rate,2022
+Northwest Hills Planning Region,8.123842286,Planning Region,09160,PEP,2023,Birth rate,2023
+Northwest Hills Planning Region,10.83697897,Planning Region,09160,PEP,2023,Death rate,2021
+Northwest Hills Planning Region,10.90041109,Planning Region,09160,PEP,2023,Death rate,2022
+Northwest Hills Planning Region,10.51424539,Planning Region,09160,PEP,2023,Death rate,2023
+Northwest Hills Planning Region,-3.073438298,Planning Region,09160,PEP,2023,Natural Change rate,2021
+Northwest Hills Planning Region,-2.634487026,Planning Region,09160,PEP,2023,Natural Change rate,2022
+Northwest Hills Planning Region,-2.390403105,Planning Region,09160,PEP,2023,Natural Change rate,2023
+Northwest Hills Planning Region,0.621793875,Planning Region,09160,PEP,2023,International Migration rate,2021
+Northwest Hills Planning Region,1.98028555,Planning Region,09160,PEP,2023,International Migration rate,2022
+Northwest Hills Planning Region,1.887624592,Planning Region,09160,PEP,2023,International Migration rate,2023
+Northwest Hills Planning Region,8.838355799,Planning Region,09160,PEP,2023,Domestic Migration rate,2021
+Northwest Hills Planning Region,4.243469036,Planning Region,09160,PEP,2023,Domestic Migration rate,2022
+Northwest Hills Planning Region,2.19634824,Planning Region,09160,PEP,2023,Domestic Migration rate,2023
+Northwest Hills Planning Region,9.460149675,Planning Region,09160,PEP,2023,Net Migration rate,2021
+Northwest Hills Planning Region,6.223754586,Planning Region,09160,PEP,2023,Net Migration rate,2022
+Northwest Hills Planning Region,4.083972832,Planning Region,09160,PEP,2023,Net Migration rate,2023
 Norwalk,91188,Town,0919056060,PEP,2023,Estimate Base,2020
 Norwalk,90891,Town,0919056060,PEP,2023,Population Estimate,2020
 Norwalk,91440,Town,0919056060,PEP,2023,Population Estimate,2021
@@ -3143,24 +3143,24 @@ South Central Connecticut Planning Region,18400,Planning Region,09170,PEP,2023,G
 South Central Connecticut Planning Region,21893,Planning Region,09170,PEP,2023,Group Quarters Estimates,2021
 South Central Connecticut Planning Region,22530,Planning Region,09170,PEP,2023,Group Quarters Estimates,2022
 South Central Connecticut Planning Region,22486,Planning Region,09170,PEP,2023,Group Quarters Estimates,2023
-South Central Connecticut Planning Region,9.843482622,Planning Region,09170,PEP,2023,Birth (residual),2021
-South Central Connecticut Planning Region,10.106856477,Planning Region,09170,PEP,2023,Birth (residual),2022
-South Central Connecticut Planning Region,9.9845146759,Planning Region,09170,PEP,2023,Birth (residual),2023
-South Central Connecticut Planning Region,10.367973892,Planning Region,09170,PEP,2023,Death (residual),2021
-South Central Connecticut Planning Region,10.254632969,Planning Region,09170,PEP,2023,Death (residual),2022
-South Central Connecticut Planning Region,9.6114591399,Planning Region,09170,PEP,2023,Death (residual),2023
-South Central Connecticut Planning Region,-0.52449127,Planning Region,09170,PEP,2023,Natural Change (residual),2021
-South Central Connecticut Planning Region,-0.147776492,Planning Region,09170,PEP,2023,Natural Change (residual),2022
-South Central Connecticut Planning Region,0.373055536,Planning Region,09170,PEP,2023,Natural Change (residual),2023
-South Central Connecticut Planning Region,1.7677298358,Planning Region,09170,PEP,2023,International Migration (residual),2021
-South Central Connecticut Planning Region,3.9319102223,Planning Region,09170,PEP,2023,International Migration (residual),2022
-South Central Connecticut Planning Region,3.9522770465,Planning Region,09170,PEP,2023,International Migration (residual),2023
-South Central Connecticut Planning Region,6.1967672265,Planning Region,09170,PEP,2023,Domestic Migration (residual),2021
-South Central Connecticut Planning Region,-3.47626604,Planning Region,09170,PEP,2023,Domestic Migration (residual),2022
-South Central Connecticut Planning Region,-4.789892307,Planning Region,09170,PEP,2023,Domestic Migration (residual),2023
-South Central Connecticut Planning Region,7.9644970623,Planning Region,09170,PEP,2023,Net Migration (residual),2021
-South Central Connecticut Planning Region,0.4556441824,Planning Region,09170,PEP,2023,Net Migration (residual),2022
-South Central Connecticut Planning Region,-0.83761526,Planning Region,09170,PEP,2023,Net Migration (residual),2023
+South Central Connecticut Planning Region,9.843482622,Planning Region,09170,PEP,2023,Birth rate,2021
+South Central Connecticut Planning Region,10.10685648,Planning Region,09170,PEP,2023,Birth rate,2022
+South Central Connecticut Planning Region,9.984514676,Planning Region,09170,PEP,2023,Birth rate,2023
+South Central Connecticut Planning Region,10.36797389,Planning Region,09170,PEP,2023,Death rate,2021
+South Central Connecticut Planning Region,10.25463297,Planning Region,09170,PEP,2023,Death rate,2022
+South Central Connecticut Planning Region,9.61145914,Planning Region,09170,PEP,2023,Death rate,2023
+South Central Connecticut Planning Region,-0.52449127,Planning Region,09170,PEP,2023,Natural Change rate,2021
+South Central Connecticut Planning Region,-0.147776492,Planning Region,09170,PEP,2023,Natural Change rate,2022
+South Central Connecticut Planning Region,0.373055536,Planning Region,09170,PEP,2023,Natural Change rate,2023
+South Central Connecticut Planning Region,1.767729836,Planning Region,09170,PEP,2023,International Migration rate,2021
+South Central Connecticut Planning Region,3.931910222,Planning Region,09170,PEP,2023,International Migration rate,2022
+South Central Connecticut Planning Region,3.952277047,Planning Region,09170,PEP,2023,International Migration rate,2023
+South Central Connecticut Planning Region,6.196767227,Planning Region,09170,PEP,2023,Domestic Migration rate,2021
+South Central Connecticut Planning Region,-3.47626604,Planning Region,09170,PEP,2023,Domestic Migration rate,2022
+South Central Connecticut Planning Region,-4.789892307,Planning Region,09170,PEP,2023,Domestic Migration rate,2023
+South Central Connecticut Planning Region,7.964497062,Planning Region,09170,PEP,2023,Net Migration rate,2021
+South Central Connecticut Planning Region,0.455644182,Planning Region,09170,PEP,2023,Net Migration rate,2022
+South Central Connecticut Planning Region,-0.83761526,Planning Region,09170,PEP,2023,Net Migration rate,2023
 South Windsor,26919,Town,0911071390,PEP,2023,Estimate Base,2020
 South Windsor,26868,Town,0911071390,PEP,2023,Population Estimate,2020
 South Windsor,26853,Town,0911071390,PEP,2023,Population Estimate,2021
@@ -3213,24 +3213,24 @@ Southeastern Connecticut Planning Region,10605,Planning Region,09180,PEP,2023,Gr
 Southeastern Connecticut Planning Region,10752,Planning Region,09180,PEP,2023,Group Quarters Estimates,2021
 Southeastern Connecticut Planning Region,11266,Planning Region,09180,PEP,2023,Group Quarters Estimates,2022
 Southeastern Connecticut Planning Region,11350,Planning Region,09180,PEP,2023,Group Quarters Estimates,2023
-Southeastern Connecticut Planning Region,8.9130270909,Planning Region,09180,PEP,2023,Birth (residual),2021
-Southeastern Connecticut Planning Region,9.6259118365,Planning Region,09180,PEP,2023,Birth (residual),2022
-Southeastern Connecticut Planning Region,9.2862472289,Planning Region,09180,PEP,2023,Birth (residual),2023
-Southeastern Connecticut Planning Region,11.045261522,Planning Region,09180,PEP,2023,Death (residual),2021
-Southeastern Connecticut Planning Region,11.120329274,Planning Region,09180,PEP,2023,Death (residual),2022
-Southeastern Connecticut Planning Region,10.599562348,Planning Region,09180,PEP,2023,Death (residual),2023
-Southeastern Connecticut Planning Region,-2.132234431,Planning Region,09180,PEP,2023,Natural Change (residual),2021
-Southeastern Connecticut Planning Region,-1.494417437,Planning Region,09180,PEP,2023,Natural Change (residual),2022
-Southeastern Connecticut Planning Region,-1.313315119,Planning Region,09180,PEP,2023,Natural Change (residual),2023
-Southeastern Connecticut Planning Region,1.2204708864,Planning Region,09180,PEP,2023,International Migration (residual),2021
-Southeastern Connecticut Planning Region,2.1430734469,Planning Region,09180,PEP,2023,International Migration (residual),2022
-Southeastern Connecticut Planning Region,2.0862744256,Planning Region,09180,PEP,2023,International Migration (residual),2023
-Southeastern Connecticut Planning Region,1.949163798,Planning Region,09180,PEP,2023,Domestic Migration (residual),2021
-Southeastern Connecticut Planning Region,1.4729150279,Planning Region,09180,PEP,2023,Domestic Migration (residual),2022
-Southeastern Connecticut Planning Region,0.5618269036,Planning Region,09180,PEP,2023,Domestic Migration (residual),2023
-Southeastern Connecticut Planning Region,3.1696346843,Planning Region,09180,PEP,2023,Net Migration (residual),2021
-Southeastern Connecticut Planning Region,3.6159884747,Planning Region,09180,PEP,2023,Net Migration (residual),2022
-Southeastern Connecticut Planning Region,2.6481013292,Planning Region,09180,PEP,2023,Net Migration (residual),2023
+Southeastern Connecticut Planning Region,8.913027091,Planning Region,09180,PEP,2023,Birth rate,2021
+Southeastern Connecticut Planning Region,9.625911837,Planning Region,09180,PEP,2023,Birth rate,2022
+Southeastern Connecticut Planning Region,9.286247229,Planning Region,09180,PEP,2023,Birth rate,2023
+Southeastern Connecticut Planning Region,11.04526152,Planning Region,09180,PEP,2023,Death rate,2021
+Southeastern Connecticut Planning Region,11.12032927,Planning Region,09180,PEP,2023,Death rate,2022
+Southeastern Connecticut Planning Region,10.59956235,Planning Region,09180,PEP,2023,Death rate,2023
+Southeastern Connecticut Planning Region,-2.132234431,Planning Region,09180,PEP,2023,Natural Change rate,2021
+Southeastern Connecticut Planning Region,-1.494417437,Planning Region,09180,PEP,2023,Natural Change rate,2022
+Southeastern Connecticut Planning Region,-1.313315119,Planning Region,09180,PEP,2023,Natural Change rate,2023
+Southeastern Connecticut Planning Region,1.220470886,Planning Region,09180,PEP,2023,International Migration rate,2021
+Southeastern Connecticut Planning Region,2.143073447,Planning Region,09180,PEP,2023,International Migration rate,2022
+Southeastern Connecticut Planning Region,2.086274426,Planning Region,09180,PEP,2023,International Migration rate,2023
+Southeastern Connecticut Planning Region,1.949163798,Planning Region,09180,PEP,2023,Domestic Migration rate,2021
+Southeastern Connecticut Planning Region,1.472915028,Planning Region,09180,PEP,2023,Domestic Migration rate,2022
+Southeastern Connecticut Planning Region,0.561826904,Planning Region,09180,PEP,2023,Domestic Migration rate,2023
+Southeastern Connecticut Planning Region,3.169634684,Planning Region,09180,PEP,2023,Net Migration rate,2021
+Southeastern Connecticut Planning Region,3.615988475,Planning Region,09180,PEP,2023,Net Migration rate,2022
+Southeastern Connecticut Planning Region,2.648101329,Planning Region,09180,PEP,2023,Net Migration rate,2023
 Southington,43517,Town,0911070550,PEP,2023,Estimate Base,2020
 Southington,43427,Town,0911070550,PEP,2023,Population Estimate,2020
 Southington,43602,Town,0911070550,PEP,2023,Population Estimate,2021
@@ -3398,24 +3398,24 @@ Western Connecticut Planning Region,7565,Planning Region,09190,PEP,2023,Group Qu
 Western Connecticut Planning Region,7728,Planning Region,09190,PEP,2023,Group Quarters Estimates,2021
 Western Connecticut Planning Region,7895,Planning Region,09190,PEP,2023,Group Quarters Estimates,2022
 Western Connecticut Planning Region,7794,Planning Region,09190,PEP,2023,Group Quarters Estimates,2023
-Western Connecticut Planning Region,9.8499870331,Planning Region,09190,PEP,2023,Birth (residual),2021
-Western Connecticut Planning Region,10.366619453,Planning Region,09190,PEP,2023,Birth (residual),2022
-Western Connecticut Planning Region,10.19439124,Planning Region,09190,PEP,2023,Birth (residual),2023
-Western Connecticut Planning Region,8.091003249,Planning Region,09190,PEP,2023,Death (residual),2021
-Western Connecticut Planning Region,8.1100058983,Planning Region,09190,PEP,2023,Death (residual),2022
-Western Connecticut Planning Region,7.6004761126,Planning Region,09190,PEP,2023,Death (residual),2023
-Western Connecticut Planning Region,1.7589837842,Planning Region,09190,PEP,2023,Natural Change (residual),2021
-Western Connecticut Planning Region,2.2566135549,Planning Region,09190,PEP,2023,Natural Change (residual),2022
-Western Connecticut Planning Region,2.5939151275,Planning Region,09190,PEP,2023,Natural Change (residual),2023
-Western Connecticut Planning Region,2.4709534111,Planning Region,09190,PEP,2023,International Migration (residual),2021
-Western Connecticut Planning Region,6.4632878988,Planning Region,09190,PEP,2023,International Migration (residual),2022
-Western Connecticut Planning Region,6.36367428,Planning Region,09190,PEP,2023,International Migration (residual),2023
-Western Connecticut Planning Region,3.1490964268,Planning Region,09190,PEP,2023,Domestic Migration (residual),2021
-Western Connecticut Planning Region,-9.548075418,Planning Region,09190,PEP,2023,Domestic Migration (residual),2022
-Western Connecticut Planning Region,-7.371082258,Planning Region,09190,PEP,2023,Domestic Migration (residual),2023
-Western Connecticut Planning Region,5.6200498379,Planning Region,09190,PEP,2023,Net Migration (residual),2021
-Western Connecticut Planning Region,-3.08478752,Planning Region,09190,PEP,2023,Net Migration (residual),2022
-Western Connecticut Planning Region,-1.007407978,Planning Region,09190,PEP,2023,Net Migration (residual),2023
+Western Connecticut Planning Region,9.849987033,Planning Region,09190,PEP,2023,Birth rate,2021
+Western Connecticut Planning Region,10.36661945,Planning Region,09190,PEP,2023,Birth rate,2022
+Western Connecticut Planning Region,10.19439124,Planning Region,09190,PEP,2023,Birth rate,2023
+Western Connecticut Planning Region,8.091003249,Planning Region,09190,PEP,2023,Death rate,2021
+Western Connecticut Planning Region,8.110005898,Planning Region,09190,PEP,2023,Death rate,2022
+Western Connecticut Planning Region,7.600476113,Planning Region,09190,PEP,2023,Death rate,2023
+Western Connecticut Planning Region,1.758983784,Planning Region,09190,PEP,2023,Natural Change rate,2021
+Western Connecticut Planning Region,2.256613555,Planning Region,09190,PEP,2023,Natural Change rate,2022
+Western Connecticut Planning Region,2.593915128,Planning Region,09190,PEP,2023,Natural Change rate,2023
+Western Connecticut Planning Region,2.470953411,Planning Region,09190,PEP,2023,International Migration rate,2021
+Western Connecticut Planning Region,6.463287899,Planning Region,09190,PEP,2023,International Migration rate,2022
+Western Connecticut Planning Region,6.36367428,Planning Region,09190,PEP,2023,International Migration rate,2023
+Western Connecticut Planning Region,3.149096427,Planning Region,09190,PEP,2023,Domestic Migration rate,2021
+Western Connecticut Planning Region,-9.548075418,Planning Region,09190,PEP,2023,Domestic Migration rate,2022
+Western Connecticut Planning Region,-7.371082258,Planning Region,09190,PEP,2023,Domestic Migration rate,2023
+Western Connecticut Planning Region,5.620049838,Planning Region,09190,PEP,2023,Net Migration rate,2021
+Western Connecticut Planning Region,-3.08478752,Planning Region,09190,PEP,2023,Net Migration rate,2022
+Western Connecticut Planning Region,-1.007407978,Planning Region,09190,PEP,2023,Net Migration rate,2023
 Weston,10353,Town,0919083430,PEP,2023,Estimate Base,2020
 Weston,10318,Town,0919083430,PEP,2023,Population Estimate,2020
 Weston,10368,Town,0919083430,PEP,2023,Population Estimate,2021
