@@ -46,7 +46,7 @@ CT DPH created and released its own population estimates for 2020 based on data 
 
 ### New Housing Units
 
-Data on new housing units are from the 2020-2023 Building Permit Survey, which is conducted by the Census Bureau to gather statistics on residential construction projects across the country. This survey requests the number of new housing units covered by residential building permits issued from all permit-issuing entities (including Connecticut’s towns). The Census Bureau uses these data to estimate the annual change in housing units in each town in Connecticut, which is in turn used in the estimation of the annual population change in each town. The counts shown here are for new permitted residential housing units in each calendar year (January – December). 
+Data on new housing units are from the 2020-2025 Building Permit Survey, which is conducted by the Census Bureau to gather statistics on residential construction projects across the country. This survey requests the number of new housing units covered by residential building permits issued from all permit-issuing entities (including Connecticut’s towns). The Census Bureau uses these data to estimate the annual change in housing units in each town in Connecticut, which is in turn used in the estimation of the annual population change in each town. The counts shown here are for new permitted residential housing units in each calendar year (January – December). 
 
 ### Questions or Comments?
 
